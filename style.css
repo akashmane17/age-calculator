@@ -7,7 +7,7 @@
 }
 
 body{
-  background-color: #0a6cf1;
+  background-color: #454545;
 }
 .container{
   width: 40%;
@@ -19,12 +19,12 @@ body{
   padding: 50px 30px;
 }
 .container *{
-  font-family: "popins", sans-serif;
+  font-family: "Poppins", sans-serif;
   border: none;
   outline: none;
 }
 .inputs-wrapper{
-  background-color: #080808;
+  background-color: #FFE6C7;
   padding: 30px 25px;
   border-radius: 8px;
   box-shadow: 0 15px 20px rgba(0,0,0,0.3);
@@ -34,7 +34,7 @@ input,
 button{
   height: 50px;
   background-color: #fff;
-  color: #080808;
+  color: #272727;
   font-weight: 500;
   border-radius: 5px;
 }
@@ -56,7 +56,7 @@ button{
 .outputs-wrapper div{
   height: 100px;
   width: 100px;
-  background-color: #080808;
+  background-color: #FFA559;
   border-radius: 5px;
   color: #fff;
   display: grid;
@@ -71,6 +71,6 @@ span{
 }
 p{
   font-size: 14px;
-  color: #707070;
+  color: #272727;
   font-weight: 400;
 }
